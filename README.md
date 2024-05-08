@@ -1,4 +1,4 @@
-# Pyramid Cards Decentralized Application Project
+# Pyramid Cards dApp Project
 
 ## Introduction:
 The consistent improvement of blockchain technology has inspired various innovative decentralized applications in different sectors such as online gaming and lottery. Our vision is to create a DApp that not only offers an exciting and rewarding user experience but also sets a new standard for transparency and fairness in the industry. We believe that users should have full rights to stay informed about the games they play and the platforms they engage with. 
