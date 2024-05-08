@@ -6,7 +6,7 @@ The consistent improvement of blockchain technology has inspired various innovat
 Our Pyramid Cards aim to bring transparency and fairness to online card collection and lottery games by leveraging blockchain technology. The core mechanism of our DApp derives from the smart contracts that manage card distribution, ensuring that every card draw is verifiable, transparent, and consequently tamper-proof. For more details, please feel free to look at the White Paper of Pyramid Cards.
 
 ## Key features:
-**• Transparent Odds:** Utilizing smart contracts, Pyramid Cards openly displays the probabilities of each card, ensuring that users are fully informed about their chances of winning or collecting rare cards, which helps to establish reasonable expectations and decisions.
+**• <ins>Transparent Odds:<ins>** Utilizing smart contracts, Pyramid Cards openly displays the probabilities of each card, ensuring that users are fully informed about their chances of winning or collecting rare cards, which helps to establish reasonable expectations and decisions.
 
 **• Blockchain-Based Fairness:** The DApp relies on Chainlink’s Verifiable Random Function (VRF) to generate randomness for card draws. This guarantees the fairness of randomness and provides proof of integrity directly on the blockchain.
 
