@@ -58,12 +58,6 @@ Our Pyramid Cards aim to bring transparency and fairness to online card collecti
 
 ![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/6_admin_functions.png)
 
-## Team Members
-**Michael Yang, Zichen Chang, Kevin Chu, Zhiwei Li, Tai Jing**
-
-## Notice
-This Fork is added with project instructions and for further development of our original Repo, which can be found [here](https://github.com/Will-Li-zw/571G).
-
 ## Deployment
 ### Start From our existing contract
 Step1. Use existed contract
@@ -110,6 +104,12 @@ nvm use 18
 yarn
 yarn start
 ```
+
+## Team Members
+**Michael Yang, Zichen Chang, Kevin Chu, Zhiwei Li, Tai Jing**
+
+## Notice
+This Fork is added with project instructions and for further development of our original Repo, which can be found [here](https://github.com/Will-Li-zw/571G).
 
 
 
