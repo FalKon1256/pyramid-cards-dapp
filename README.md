@@ -13,7 +13,7 @@ Our Pyramid Cards aim to bring transparency and fairness to online card collecti
 
 ## Structure Design:
 • Tech Stack
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/Tech Stack.jpeg)
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/571G_TechStack.jpeg)
 • Use Case Diagram
 ![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/571G_ProjectUseCaseDiagram.jpeg)
 • UML Class Diagram
