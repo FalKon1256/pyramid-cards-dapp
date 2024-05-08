@@ -8,11 +8,11 @@ Our Pyramid Cards aim to bring transparency and fairness to online card collecti
 ## Key features:
 **• <ins>Transparent Odds:<ins>** Utilizing smart contracts, Pyramid Cards openly displays the probabilities of each card, ensuring that users are fully informed about their chances of winning or collecting rare cards, which helps to establish reasonable expectations and decisions.
 
-**• <ins>Blockchain-Based Fairness<ins>:** The DApp relies on Chainlink’s Verifiable Random Function (VRF) to generate randomness for card draws. This guarantees the fairness of randomness and provides proof of integrity directly on the blockchain.
+**• <ins>Blockchain-Based Fairness:<ins>** The DApp relies on Chainlink’s Verifiable Random Function (VRF) to generate randomness for card draws. This guarantees the fairness of randomness and provides proof of integrity directly on the blockchain.
 
-**• Rewarding Collection Mechanism:** Players can collect card sets to redeem prizes, including Ethereum tokens, which provide users with an incentive of ultimate reward beyond collection value.
+**• <ins>Rewarding Collection Mechanism:<ins>** Players can collect card sets to redeem prizes, including Ethereum tokens, which provide users with an incentive of ultimate reward beyond collection value.
 
-**• Peer-to-peer Interaction Among Users:** Players have complete control over their collected items and can trade (in future versions) or redeem cards based on their strategies.
+**• <ins>Peer-to-peer Interaction Among Users:<ins>** Players have complete control over their collected items and can trade (in future versions) or redeem cards based on their strategies.
 
 ## Structure Design:
 
