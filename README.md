@@ -28,35 +28,6 @@ Our Pyramid Cards aim to bring transparency and fairness to online card collecti
 
 ![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/571G_ProjectClassDiagram.jpeg)
 
-## Interface Demo
-
-**• User Login**
-
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/1_user_login.png)
-
-**• User Buy Draws**
-
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/2_user_buy_draws.png)
-
-**• User Draw Card**
-
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/3_user_draw_card.png)
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/3_user_draw_card_success.png)
-
-**• User Redeem Draw**
-
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/4_user_redeem_draw.png)
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/4_user_redeem_draw_result.png)
-
-**• User Redeem Award**
-
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/5_user_redeem_award_owncards.png)
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/5_user_redeem_award.png)
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/5_user_redeem_award_success.png)
-
-**• Admin Functions**
-
-![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/6_admin_functions.png)
 
 ## Deployment
 ### Start From our existing contract
@@ -104,6 +75,36 @@ nvm use 18
 yarn
 yarn start
 ```
+
+## Interface Demo
+
+**• User Login**
+
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/1_user_login.png)
+
+**• User Buy Draws**
+
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/2_user_buy_draws.png)
+
+**• User Draw Card**
+
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/3_user_draw_card.png)
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/3_user_draw_card_success.png)
+
+**• User Redeem Draw**
+
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/4_user_redeem_draw.png)
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/4_user_redeem_draw_result.png)
+
+**• User Redeem Award**
+
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/5_user_redeem_award_owncards.png)
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/5_user_redeem_award.png)
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/5_user_redeem_award_success.png)
+
+**• Admin Functions**
+
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/pyramid-cards-dapp/main/demo-images/6_admin_functions.png)
 
 ## Team Members
 **Michael Yang, Zichen Chang, Kevin Chu, Zhiwei Li, Tai Jing**
