@@ -110,7 +110,7 @@ yarn start
 **Michael Yang, Zichen Chang, Kevin Chu, Zhiwei Li, Tai Jing**
 
 ## Notice
-This Fork is added with project instructions and for further development of our original Repo, which can be found [here](https://github.com/Will-Li-zw/571G).
+This Fork is added with project instructions and for further development of our [Original Repo](https://github.com/Will-Li-zw/571G).
 
 
 
