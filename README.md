@@ -76,7 +76,9 @@ yarn
 yarn start
 ```
 
-## Interface Demo
+## Demo
+
+The demo images are shown below, the [Demo Video](https://drive.google.com/file/d/1oecyLdpaKVN4XrhOf9X2ghhSB9vwwE4h/view?usp=sharing) is provided for more details.
 
 **• User Login**
 
