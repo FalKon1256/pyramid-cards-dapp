@@ -3,7 +3,7 @@
 ## Introduction:
 The consistent improvement of blockchain technology has inspired various innovative decentralized applications in different sectors such as online gaming and lottery. Our vision is to create a DApp that not only offers an exciting and rewarding user experience but also sets a new standard for transparency and fairness in the industry. We believe that users should have full rights to stay informed about the games they play and the platforms they engage with. 
 
-Our Pyramid Cards aim to bring transparency and fairness to online card collection and lottery games by leveraging blockchain technology. The core mechanism of our DApp derives from the smart contracts that manage card distribution, ensuring that every card draw is verifiable, transparent, and consequently tamper-proof. For more details, please feel free to look at the White Paper of Pyramid Cards.
+Our Pyramid Cards aim to bring transparency and fairness to online card collection and lottery games by leveraging blockchain technology. The core mechanism of our DApp derives from the smart contracts that manage card distribution, ensuring that every card draw is verifiable, transparent, and consequently tamper-proof. For more details, please feel free to look at the [White Paper of Pyramid Cards](https://github.com/FalKon1256/pyramid-cards-dapp/blob/main/Pyramid%20Cards%20White%20Paper.pdf).
 
 ## Key Features:
 **• <ins>Transparent Odds:<ins>** Utilizing smart contracts, Pyramid Cards openly displays the probabilities of each card, ensuring that users are fully informed about their chances of winning or collecting rare cards, which helps to establish reasonable expectations and decisions.
